@@ -1,5 +1,17 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding-top: 40px;
+}
+
 .App-logo {
   max-width: 300px;
   display: block;
   margin: 0 auto;
 }
+
+
