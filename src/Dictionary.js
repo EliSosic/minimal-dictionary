@@ -1,4 +1,4 @@
-import React, { useState }from "react";
+import React, { useState } from "react";
 import "./Dictionary.css";
 
 export default function Dictionary() {
@@ -10,7 +10,8 @@ export default function Dictionary() {
     return (
     <div className="Dictionary">
         <form onSubmit={search}>
-            <input type="search" />
+            <input type="search" className="Search-line" />
+            <input type="submit" value="Search" className="Search-button"/>
         </form>
     </div>
     ); 

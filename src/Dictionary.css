@@ -1,0 +1,22 @@
+form .Dictionary {
+    display: block;
+}
+
+.Dictionary {
+    text-align: center;
+}
+
+.Search-line {
+    width: 300px;
+    margin: 0 15px;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+.Search-button {
+    font-size: 13px;
+    padding: 6px;
+    border-radius: 15px;
+
+}

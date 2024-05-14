@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary />
         </main>
         <footer>
-          Coded by Elisa Sosic
+          Coded by Elisa Sosic, code viable on Github and hosted on Netlify
         </footer>
       </div>
     </div>
