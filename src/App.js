@@ -12,7 +12,9 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        
         <footer>
+        <hr />
           Coded by Elisa Sosic, code viable on Github and hosted on Netlify
         </footer>
       </div>
