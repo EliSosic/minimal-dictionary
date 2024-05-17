@@ -15,7 +15,8 @@ export default function App() {
         
         <footer>
         <hr />
-          Coded by Elisa Sosic, code viable on Github and hosted on Netlify
+          Coded by <a href="https://app.netlify.com/teams/elisosic/overview">Elisa Sosic</a>, code viable on <a href="https://github.com/EliSosic/minimal-dictionary">Github</a> and hosted on  
+          <a href="https://app.netlify.com/sites/minimal-dictionary-es/overview"> Netlify</a> 
         </footer>
       </div>
     </div>

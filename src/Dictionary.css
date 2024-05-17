@@ -2,10 +2,6 @@ form .Dictionary {
     display: block;
 }
 
-.Dictionary {
-    text-align: center;
-}
-
 .Search-line {
     width: 300px;
     margin: 0 15px;
