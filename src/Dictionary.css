@@ -1,9 +1,12 @@
-form .Dictionary {
-    display: block;
-}
+.Dictionary .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18px;
+  }
 
 .Search-line {
-    width: 300px;
+    width: 600px;
     margin: 0 15px;
     padding: 5px;
     border-radius: 20px;
@@ -12,7 +15,13 @@ form .Dictionary {
 
 .Search-button {
     font-size: 13px;
-    padding: 6px;
+    padding: 8px;
     border-radius: 15px;
+    transition: all 150ms ease-in-out;
+    font-weight: bolder;
+}
 
+.Search-button:hover {
+    background-color: rgb(103, 111, 255);
+    color: black;
 }

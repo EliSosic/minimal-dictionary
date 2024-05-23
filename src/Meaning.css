@@ -1,0 +1,19 @@
+.Meaning {
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.Meaning h3 {
+    font-size: 25px;
+}
+
+.Meaning em {
+    font-size: 13px;
+    margin-left: 20px;
+    margin-top: 4px;
+}
+
+.Meaning .Definition {
+    font-weight: bold;
+    margin-right: 4px;;
+}
