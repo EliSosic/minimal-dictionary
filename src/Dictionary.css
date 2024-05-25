@@ -27,6 +27,23 @@
     color: black;
 }
 
+@media (max-width: 700px) {
+    .Dictionary .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 18px;
+        max-width: 500px;
+      }
+    
+      .Search-line {
+        width: 350px;
+        margin: 0;
+        margin-right: 3px;
+    }
+  }
+
+
 @media (max-width: 480px) {
     .Dictionary .container {
         display: flex;
@@ -37,7 +54,7 @@
       }
     
       .Search-line {
-        width: 230px;
+        width: 190px;
         margin: 0;
         margin-right: 3px;
         padding: 5px;

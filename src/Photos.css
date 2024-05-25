@@ -1,4 +1,13 @@
 .Photos img {
+    display: flex;
     border-radius: 5px;
     margin: 10px;
+}
+
+@media (max-width: 480px) {
+    .Photos img {
+        display: flex;
+        border-radius: 5px;
+        margin: 7px;
+    }
 }
