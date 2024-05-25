@@ -15,5 +15,21 @@
 
 .Meaning .Definition {
     font-weight: bold;
-    margin-right: 4px;;
+    margin-right: 4px;
 }
+
+@media (max-width: 480px) {
+    .Meaning {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    
+    .Meaning h3 {
+        font-size: 21px;
+    }
+    
+    .Meaning em {
+        font-size: 10px;
+    }
+}
+

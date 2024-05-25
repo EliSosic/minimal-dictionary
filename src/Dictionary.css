@@ -25,3 +25,26 @@
     background-color: rgb(103, 111, 255);
     color: black;
 }
+
+@media (max-width: 480px) {
+    .Dictionary .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 18px;
+        max-width: 280px;
+      }
+    
+      .Search-line {
+        width: 225px;
+        margin: 0 3px;
+        padding: 5px;
+        font-size: 15px;
+    }
+    
+    .Search-button {
+        font-size: 10px;
+        padding: 5px;
+        border-radius: 15px;
+    }
+  }

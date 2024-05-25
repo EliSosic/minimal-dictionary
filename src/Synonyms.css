@@ -5,3 +5,9 @@
 
 }
 
+@media (max-width: 480px) {
+    .Synonyms li{
+        font-size: 12px;
+    }
+}
+

@@ -11,10 +11,24 @@
     margin-right: 15px;
     transition: all 150ms ease-in-out;
     font-weight: bolder;
-    
 }
 
 .Phonetic a:hover {
     background-color: rgb(103, 111, 255);
     color: black;
+}
+
+@media (max-width: 480px) {
+    .Phonetic {
+        height: 35px;
+        font-size: 12px;
+    }
+    
+    .Phonetic a {
+        padding: 4px;
+        border-radius: 10px;
+        margin-right: 15px;
+        transition: all 150ms ease-in-out;
+        font-weight: bolder;
+    }
 }
