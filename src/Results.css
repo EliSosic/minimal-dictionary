@@ -2,7 +2,7 @@ h2 {
     color: rgb(103, 111, 255);
     text-transform: capitalize;
     font-size: 60px;
-    margin: 10px 0;
+    margin: 6px 0;
   }
 
 @media (max-width: 480px) {

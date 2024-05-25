@@ -41,6 +41,10 @@ h3 {
     max-width: 380px;
     padding: 0 20px;
   }
+
+  .App-logo {
+    max-width: 200px;
+  }
 }
 
 
