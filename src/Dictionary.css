@@ -27,7 +27,7 @@
     color: black;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 750px) {
     .Dictionary .container {
         display: flex;
         justify-content: center;
